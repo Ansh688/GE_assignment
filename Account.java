@@ -3,7 +3,7 @@ package ge;
 public class Account {
 
 	
-    //private static final Logger logger = LogManager.getLogger(Account.class);
+    private static final Logger logger = LogManager.getLogger(Account.class);
 	
 	private float monthlyInterestRate = 0.0f;
     private float monthlyFee = 0.0f;
