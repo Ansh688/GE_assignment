@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class Bank {
 	
-	//private static final Logger logger = LogManager.getLogger(Bank.class);
+	private static final Logger logger = LogManager.getLogger(Bank.class);
     private Map<String, Account> accountMap;
 
     public Bank() {
